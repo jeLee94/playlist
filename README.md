@@ -1,4 +1,3 @@
-# Connect-Well
 <h1 align="center"> Connect-Well Mobile App</h1>
 <div align="center">
 <h3>스트레스(자폐, 우울, 분노조절, 수면장애 등) 완화용 <br>기능성 음원 추천 스트리밍
